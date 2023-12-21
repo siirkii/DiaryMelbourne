@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./Internship Style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Erste Website | Work in the Lab</title>
+</head>
+
+<body>
+    <p id="go to start"></p>
+
+    <h2 style="font-size: 40px"> Internship Abroad</h2>
+    <hr>
+
+    <h1 class="headline"  style="background-color: rgb(254, 207, 119)"> Work in the Lab</h1>
+
+    <h3>Week 1: 02.-08.10.2023 </h3>
+    <p>When I arrived at the lab on Monday, I was really nervous, but everybody at the lab is really kind. The working group itself is really small (only Mireille Lahoud and three post-docs), but another Master student from India is supposed to arrive in a few weeks. He should have arrived even earlier then I did, but he had problems with Visa so far.In the laboratory itself, there are two other small working groups and also the lab meeting are with those together, so it feels like a larger group.</p>
+    <p>My workplace is directly in front of Mireille's one so she can always talk to me whenever she has time / I need help. This first week I did not really enter the lab, because there is so much paperwork to do. Already getting an ID (which I need to start the paper work) took three days to arrive. And then I had to watch a lot of videos to be allowed to enter the lab, use the different devices, etc. Hopefully I will finish it this week so I can start the lab + talking about my project next week. </p>
+    <br>
+
+    <h3>Week 2: 09.-15.10.2023</h3>
+    <p>This week we still did not talk about the topic I will work on, but I could finally go to the lab together with Peck (my supervisor) and I just helped her with her work to get to know the lab and learn some methods without pressure. We did a Western plot together (which I barely did before) and then some mouse work. They have a project right now with melanomas in mice and then look at different dendritic cekk types in the tumour. I am not allowed to tell something specific, but since I have never seen a tumour before, this was a crazy experience. Also I got some CHO-K1 cells that I need to look after o my own now. Hopefully in the next week some dendritic cell line will follow.</p>
+    <p>Kristeen, another post-doc, showed me how to do the cleaning-stuff in the lab. Every week somebody else had to do it and next week it will be my turn already.</p>
+    <br>
+
+    <h3>Week 3: 16.-22.10.2023</h3>
+    <p>This week started with some courses again. On Monday I went to the mouse facility for the first time and then also did an intro event to be allowed to enter it on my own. But since I don't now how to handle mice, I probably will not have to do it the next weeks. I also need to do two extra courses to be allowed to work with the FACs on my own and also the device for the Western plots.</p>
+    <p>On Tuesday I finally had a talk about my project and now also have some papers I need to read. I am very happy with my topic, because it is a complete new direction of research, but I will also need to read myself into it a lot.</p>
+    <br>
+
+    <h3>Week 4: 23.-30.10.2023</h3>
+    <p>I can't believe the first month is already over! This week not that much happend, except that I am now allowed to work in the Flow Core facility and use the Chemitouch on my own. On Friday I tried using the FACS on my own for the first time. That was really cool, because before I never made a template on my own, adjust the lasers etc. Mireille also bought another license for FlowJo, so I can have a look on my data on my own. And Peck started teaching me how to do compensation. If I come back to Germany and I am able to use the FACs completely on my own, then I'll be more then happy with my results!</p>
+
+
+
+
+
+    
+    <hr>
+    <br>
+    <a href="#go to start"> <button>go to start</button> </a>
+<br>
+    <a href="./Internship Abroad"> <button> go back to first page </button> </a>
+</body>
+</html>

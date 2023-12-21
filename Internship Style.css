@@ -1,0 +1,40 @@
+.headline{text-transform:uppercase;}
+.blackcolor{color: black;}
+.underline{text-decoration: underline;}
+
+header{padding-bottom: 1px;}
+
+button{
+    cursor: pointer;
+    color: black;
+    background-color: white;
+    transition: background-color 0,3s;
+    box-shadow: 3px 4px 4px grey;
+}
+
+.contact{color:black}
+
+button:hover{
+    color: white;
+    background-color: green;
+}
+
+img{box-shadow: 3px 4px 4px grey;}
+
+body{
+    margin: 100px;
+    border: 3px;
+    border-color: grey;
+    border-style: solid;
+    border-radius: 0.5cm;
+    text-align: center;
+    padding: 10px;
+}
+
+img{border-radius:3%;}
+
+p{text-align:justify}
+
+h3{color:rgb(254, 207, 119); text-transform: uppercase;}
+
+h2{color:rgb(254, 207, 119); text-transform: uppercase;}
